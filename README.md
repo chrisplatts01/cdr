@@ -1,1 +1,1 @@
-# cdr
+# Connected Dementia Research
