@@ -6,5 +6,8 @@
   "repository": "git@github.com:chrisplatts01/cdr.git",
   "homepage": "https://chrisplatts01.github.io/cdr",
   "author": "Chris Platts <chris@virelai.co.uk>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.4.3"
+  }
 }
