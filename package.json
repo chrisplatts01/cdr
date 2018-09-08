@@ -8,6 +8,7 @@
   "author": "Chris Platts <chris@virelai.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "blendid": "^4.4.3"
+    "blendid": "^4.4.3",
+    "jquery": "^3.3.1"
   }
 }
