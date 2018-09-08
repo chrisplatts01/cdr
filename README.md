@@ -1,1 +1,0 @@
-# Connected Dementia Research
