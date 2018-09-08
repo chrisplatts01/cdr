@@ -1,0 +1,9 @@
+{
+  "name": "cdr",
+  "version": "1.0.0",
+  "description": "Connected Dementia Research",
+  "main": "index.js",
+  "repository": "git@github.com:chrisplatts01/cdr.git",
+  "author": "Chris Platts <chris@virelai.co.uk>",
+  "license": "MIT"
+}
