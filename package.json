@@ -1,0 +1,15 @@
+{
+  "name": "cdr",
+  "version": "1.0.0",
+  "description": "Connected Dementia Research website",
+  "main": "index.js",
+  "repository": "https://chrisplatts01@github.com/chrisplatts01/cdr",
+  "author": "Chris Platts <chris@virelai.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.4.3"
+  },
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
