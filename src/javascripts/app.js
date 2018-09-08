@@ -1,3 +1,4 @@
 import './modules'
+import $ from 'jquery'
 
-console.log(`app.js has loaded!`)
+$('body').append('<p>jQuery loaded</p>')
